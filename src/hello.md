@@ -1,12 +1,14 @@
 import {
-  Card,
-  Box,
-  BackgroundImage,
-  Subhead,
-  Small
+Card,
+Box,
+BackgroundImage,
+Subhead,
+Small
 } from 'rebass'
 
 # Hello, world!
+
+### hello superbe
 
 This is MDX!
 

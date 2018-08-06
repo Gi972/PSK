@@ -2,6 +2,7 @@
   "private": true,
   "name": "mdx-create-react-app",
   "dependencies": {
+    "@blueprintjs/core": "^3.2.0",
     "@mdx-js/loader": "^0.15.0-2",
     "@mdx-js/mdx": "^0.15.0-2",
     "@rebass/markdown": "^1.0.0-1",
